@@ -97,3 +97,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+static/kindeditor/plugins/lineheight/lineheight.js
+*.html
